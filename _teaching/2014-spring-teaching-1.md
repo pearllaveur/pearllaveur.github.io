@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Inferential Statistics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "IUT2, Université Grenoble Alpes"
+date: 2025-02-01
+location: "Grenoble, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+From February to May 2025, I taught *Inferential Statistics* to first-year students in the Data Science program BUT SD at IUT2, Université Grenoble Alpes.
+
+This course covered topics such as point estimation, confidence intervals and hypothesis testing.
 
 Heading 1
 ======
