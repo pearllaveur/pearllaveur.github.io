@@ -28,22 +28,21 @@ Education
 Experience
 ======
 
-* Master 2 Research Internship (5 months)  
-  "Measure of Extreme Inequalities"  
-  Inria Grenoble Alpes  
-  * *
+* Master 2 Research Internship, Inria centre of Université Grenoble Alpes | April-August 2024
+  *"Measure of extreme inequality"*  
+  &nbsp;
 
-* Master 2 Project, Université Claude Bernard Lyon 1  
+* Master 2 Project, Université Claude Bernard Lyon 1 | February 2024  
   Data Mining using factorial methods  
   - PCA, MFA, and FAMD  
   - Real biological data  
   - Writing a report and oral defense  
   - Software: SAS and LaTeX  
-  * *
+  &nbsp;
 
-* Master 1 Internship, Lycée Albert Camus, Rillieux-la-Pape  
+* Master 1 Internship, Lycée Albert Camus, Rillieux-la-Pape | January 2022
   Discovery of the teaching profession  
   - Observing lessons and student behavior  
   - Assisting students during exercises by moving through the classroom  
   - Preparing and presenting a one-hour exercise session  
-  * *
+  &nbsp;
