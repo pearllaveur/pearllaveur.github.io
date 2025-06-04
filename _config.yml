@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+#site_theme               : "default"
 title                    : "Pearl Laveur"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -297,6 +297,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+minimal_mistakes_skin: sunrise
 
 # Plugins
 plugins:
