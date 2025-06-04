@@ -24,3 +24,26 @@ Education
 
 * Master in general mathematics, Université Claude Bernard Lyon 1 | 2021–2023  
   &nbsp;
+
+Experience
+======
+
+* Master 2 Research Internship (5 months)  
+  "Measure of Extreme Inequalities"  
+  Inria Grenoble Alpes  
+  * *
+
+* Master 2 Project, Université Claude Bernard Lyon 1  
+  Data Mining using factorial methods  
+  - PCA, MFA, and FAMD  
+  - Real biological data  
+  - Writing a report and oral defense  
+  - Software: SAS and LaTeX  
+  * *
+
+* Master 1 Internship, Lycée Albert Camus, Rillieux-la-Pape  
+  Discovery of the teaching profession  
+  - Observing lessons and student behavior  
+  - Assisting students during exercises by moving through the classroom  
+  - Preparing and presenting a one-hour exercise session  
+  * *
