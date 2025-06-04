@@ -40,7 +40,7 @@ Experience
   - Software: SAS and LaTeX  
   &nbsp;
 
-* Master 1 Internship, Lycée Albert Camus, Rillieux-la-Pape | January 2022
+* Master 1 Internship, Lycée Albert Camus, Rillieux-la-Pape | January 2022  
   *Discovery of the teaching profession*  
   - Observing lessons and student behavior  
   - Assisting students during exercises  
