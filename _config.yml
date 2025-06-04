@@ -10,7 +10,7 @@
 locale                   : "en-US"
 #site_theme               : "default"
 title                    : "Pearl Laveur"
-minimal_mistakes_skin    : sunrise
+minimal_mistakes_skin    : dark
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
