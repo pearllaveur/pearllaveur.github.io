@@ -8,8 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dark"
+#site_theme               : "default"
 title                    : "Pearl Laveur"
+minimal_mistakes_skin    : "aqua"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
