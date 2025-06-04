@@ -16,3 +16,4 @@ Education
   *Thesis title: "Measure of extreme inequality".*  
   *Supervisors: Senior research scientist Stéphane Girard and assistant professor Jonathan El Methni.*
 
+* Master in applied mathematics: Statistics, Modeling and Data Science, Université Claude Bernard Lyon 1 | 2023-2024
