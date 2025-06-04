@@ -1,15 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Statistical Programming"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "IUT2, Université Grenoble Alpes"
+date: 2025-02-01
+location: "Grenoble, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+From January to April 2025, I taught *Statistical Programming* to first-year students in the BUT SD at IUT2, Université Grenoble Alpes. This course introduced R software for statistical analysis, covering data import, descriptive statistics, and basic data visualisation.
 Heading 1
 ======
 
