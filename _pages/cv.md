@@ -25,7 +25,7 @@ Education
 * Master in general mathematics, Université Claude Bernard Lyon 1 | 2021–2023  
   &nbsp;
 
-Experience
+Internships and projects
 ======
 
 * Master 2 Research Internship, Inria centre of Université Grenoble Alpes | April-August 2024  
