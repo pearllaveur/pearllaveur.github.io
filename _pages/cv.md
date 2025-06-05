@@ -14,16 +14,10 @@ Education
 
 * PhD in Statistics, Université Grenoble Alpes | since October 2024  
   *Thesis title: "Measure of extreme inequality".*  
-  *Supervisors: Senior research scientist Stéphane Girard and assistant professor Jonathan El Methni.*
-
+  *Supervisors: Senior research scientist Stéphane Girard and assistant professor Jonathan El Methni.*  
 * Master in applied mathematics: Statistics, Modeling and Data Science, Université Claude Bernard Lyon 1 | 2023–2024  
-  &nbsp;
-
 * External agrégation in mathematics | 2023  
-  &nbsp;
-
-* Master in general mathematics, Université Claude Bernard Lyon 1 | 2021–2023  
-  &nbsp;
+* Master in general mathematics, Université Claude Bernard Lyon 1 | 2021–2023
 
 Internships and projects
 ======
