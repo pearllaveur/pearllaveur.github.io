@@ -2,7 +2,7 @@
 title: "Inferential Statistic (30h)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+#permalink: /teaching/2014-spring-teaching-1
 venue: "IUT2, Université Grenoble Alpes"
 date: 2025-02-01
 location: "Grenoble, France"
