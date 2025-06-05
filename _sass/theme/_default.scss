@@ -29,7 +29,7 @@ $sidebar-screen-min-width   : 1024px;
 /* Default light theme for the site */
 :root {
     --global-base-color                 : #5a3a52;
-    --global-bg-color                   : #e1bee4; /* rose clair */
+    --global-bg-color                   : #ddc0df; /* rose clair */
     --global-footer-bg-color            : #f3e5f5; /* lilas pastel */
     --global-border-color               : #f0d5eb; /* très doux */
     --global-dark-border-color          : #bc9dcf; /* lavande */
@@ -41,7 +41,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color-visited         : #7b4a6c;
     --global-masthead-link-color        : #3c2a35;
     --global-masthead-link-color-hover  : #2a1b24;
-    --global-text-color                 : #3e2a35;
-    --global-text-color-light           : #8b6b80;
+    --global-text-color                 : #5a3a52;
+    --global-text-color-light           : #5a3a52;
     --global-thead-color                : #f3d9eb;
 }
