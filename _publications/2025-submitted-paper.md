@@ -7,9 +7,9 @@ excerpt: ''
 date: 2025-07-09
 venue: 'Submitted'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://hal.science/hal-05153188'
+#paperurl: 'https://hal.science/hal-05153188'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Jonathan El Methni, Stéphane Girard, Pearl Laveur'
+#citation: ''
 ---
 
 "A new family of inequality indices: axioms, inference and tail properties." [Read on HAL](https://hal.science/hal-05153188)
